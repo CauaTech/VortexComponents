@@ -15,9 +15,12 @@ Bem-vindo ao VortexComponents, Nosso sistema para agilizar a produção de site.
 
 ## Funcionalidades
 
-#### Navbar
+#### 🖱 Navbar
 - Navbar Default
 
-#### Cookie
+#### 🍪 Cookie
+- Cookie Default
+
+#### 📦 Cards
 - Cookie Default
 
