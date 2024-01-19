@@ -29,4 +29,27 @@
 		background: black;
 		color: blueviolet;
 	}
+	.sidebar{
+		height: 100vh;
+		background: black;
+		color: #fff;
+	}
+	.sidebar-item{
+		font-size: 12.9px;
+		color: #fff;
+		text-decoration: none;
+		margin-top: 5px;
+	}
+	.sidebar-item:hover{
+		text-decoration: none;
+		color: #fff;
+	}
+	.sidebar-hover{
+		transition: 150ms;
+	}
+	.sidebar-hover:hover{
+		transition: 150ms;
+		border-radius: 5px;
+		background-color: #ff8c00;
+	}
 </style>
