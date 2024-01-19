@@ -52,4 +52,46 @@
 		border-radius: 5px;
 		background-color: #ff8c00;
 	}
+
+	.card-shop{
+		background: #f2f2f2;
+		border: 2px solid #9d39fa;
+		color: black;
+		margin-top: 10px;
+	}
+	.icon-card{
+		background: #fff;
+		padding: 1rem 1rem;
+		color: #9d39fa;
+		font-size: 25px;
+	}
+	.shop-title{
+		color: #9d39fa;
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	.package_list {
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	    padding: 0 20px;
+	}
+	.package_list li {
+	    list-style: none;
+	    margin: 6px 0;
+	    color: gray;
+	    font-size: 14px;
+	}
+	.btn-shop{
+		border: 0;
+		background-color: #9d39fa;
+		color: #fff;
+	}
+	.btn-shop:hover{
+		transition: 150ms;
+		border: 0;
+		background-color: #8929e3;
+		color: #fff;
+		text-decoration: none;
+	}
 </style>
