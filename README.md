@@ -2,7 +2,7 @@
 
 Bem-vindo ao VortexComponents, Nosso sistema para agilizar a produção de site.
 
-### [35%]
+### [36%]
 
 ## Colaboradores do Projeto
 
