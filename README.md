@@ -2,7 +2,7 @@
 
 Bem-vindo ao VortexComponents, Nosso sistema para agilizar a produção de site.
 
-### [32%]
+### [35%]
 
 ## Colaboradores do Projeto
 
@@ -30,4 +30,3 @@ Bem-vindo ao VortexComponents, Nosso sistema para agilizar a produção de site.
 
 #### 📦 Cards
 - Card Plano
-

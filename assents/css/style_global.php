@@ -94,4 +94,79 @@
 		color: #fff;
 		text-decoration: none;
 	}
+
+
+
+	.card-info{
+		border: 0;
+		background: #f2f2f2;
+		color: black;
+		margin-top: 10px;
+	}
+	.info-icon{
+		float: left;
+		font-size: 5vh;
+	}
+	.info-text{
+		float: right;
+	}
+	.title-info{
+		font-size: 15px;
+		font-weight: 600;
+		color: #9d39fa;
+	}
+	.texto-info{
+		font-size: 35px;
+		font-weight: 800;
+	}
+
+
+	.card-prices{
+		background: #fd85ff;
+	}
+	.card-price{
+		margin-top: 25px;
+		border: 0;
+		color: black;
+		border-radius: 0px;
+	}
+	.title-price{
+		color: #8c8c8c;
+		margin-top: 20px;
+		font-weight: 400;
+		font-size: 17px;
+	}
+	.price-value{
+		font-size: 30px;
+		font-weight: 700;
+	}
+	.price-plane{
+		font-size: 15px;
+		font-weight: 400;
+		color: #b3b3b3;
+	}
+	.subTitle-price{
+		margin-top: 15px;
+		font-size: 12px;
+	}
+	.item-card{
+		margin-top: 25px;
+		font-size: 14px;
+		color: #b3b3b3;
+	}
+	.btn-outline-price{
+		border: 1px solid #802feb;
+		color: #802feb;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		font-size: 15px;
+		width: 100%;
+		background: #fff;
+	}
+	.card-price:hover{
+		color: #fff;
+		background-color: #802feb;
+		border-radius: 10px;
+		transition: 350ms;
+	}
 </style>

@@ -19,7 +19,7 @@
 			    	<ul class="dropdown-menu dropdown-vortex">
 			    		<li><a class="dropdown-item" href="<?php echo $flow ?>subnavbar/">Off-Navbar</a></li>
 			    		<li><a class="dropdown-item" href="<?php echo $flow ?>Sidebars/">Sidebar</a></li>
-					    <li><a class="dropdown-item" href="#">Cards</a></li>
+					    <li><a class="dropdown-item" href="<?php echo $flow ?>cards/">Cards</a></li>
 					    <li><a class="dropdown-item" href="#">Footers</a></li>
 					    <li><a class="dropdown-item" href="#">Logins</a></li>
 					    <li><a class="dropdown-item" href="#">Header</a></li>
