@@ -39,3 +39,4 @@ Bem-vindo ao VortexComponents, Nosso sistema para agilizar a produção de site.
 
 #### 📦 Cards
 - Card Plano
+- Card Shop
